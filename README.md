@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# ReactQuery-FlickrAPI
+
+## How to start
+
+1. Request an FlickrAPI key [here](https://www.flickr.com/services/apps/create/);
+2. Create `.env` file to root folder and add your FlickrAPI key as in `.env.example` file;
+3. `npm install`;
+4. `npm run start`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
